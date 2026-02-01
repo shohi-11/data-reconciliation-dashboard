@@ -33,11 +33,11 @@ A web-based dashboard designed to upload CSV files, map columns dynamically, and
 ##  Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard-summary.png)
+![Dashboard Overview](dashboard-summary.png)
 
 ### CSV Upload & Column Mapping
 
-![CSV Upload](screenshots/csv-upload-mapping.png)
+![CSV Upload](csv-upload-mapping.png)
 
 ##  Folder Structure
 
